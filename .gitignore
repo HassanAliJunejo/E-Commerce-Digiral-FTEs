@@ -1,0 +1,25 @@
+# Environment files
+.env
+.env.example
+
+# Database files
+inventory_db/digital_fte.db
+inventory_db/knowledge_base.db
+
+# Session data (browser sessions with sensitive data)
+whatsapp_session/browser_data/
+facebook_session/
+instagram_session/
+twitter_session/
+
+# Logs
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Images (large binary files)
+inventory_db/images/

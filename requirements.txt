@@ -1,0 +1,8 @@
+streamlit
+pandas
+openai
+playwright
+python-dotenv
+google-generativeai
+sqlite3
+asyncio
